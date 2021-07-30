@@ -1,0 +1,12 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: <h2>Test</h2>
+From: webmaster@localhost
+To: sonam@gmail.com
+Date: Thu, 29 Jul 2021 17:07:46 -0000
+Message-ID: <162757846628.1064.3261123827228506745@DESKTOP-3FHMIJ0>
+
+Someone asked for password reset for email sonam@gmail.com. Follow the link below:
+http://127.0.0.1:8000/accounts/reset/Mg/aqklky-6a825e2bee6710fa2d1e29bb65804534/<h2>Test</h2>
+-------------------------------------------------------------------------------
